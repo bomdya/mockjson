@@ -1,8 +1,10 @@
-{
-  "posts":[
+[
+  {
+    "posts":[
   { "id": 1, "nome": "Nome", "mensagem": "Mensagem"},
   ],
   "coments"[
   { "id": 1, "nome": "Nome", "mensagem": "Mensagem"},
   ],
 }
+]
