@@ -1,5 +1,5 @@
 { 
-  "posts": [
+  "comentarios": [
     {"id": 1, "titulo": "Mariana", "corpo": "ficou top" }, 
     {"id": 2, "titulo": "Julie", "corpo": "eu adorei!!" }, 
     {"id": 3, "titulo": "Matheus", "corpo": "melhor hq!" } 
