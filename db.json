@@ -1,8 +1,8 @@
 {
   "comments": [
-    { "id": 1, "nome": "Dya", "mensagem": "Socorro"},
-    { "id": 2, "nome": "Mo", "mensagem": "mt bom"},
-    { "id": 3, "nome": "Samila", "mensagem": "show"}
+    { "id": 1, "titulo": "Mariana", "corpo": "Socorro"},
+    { "id": 2, "titulo": "Mo", "corpo": "mt bom"},
+    { "id": 3, "titulo": "Samila", "corpo": "show"}
   ]
 
 }
