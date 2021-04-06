@@ -1,18 +1,7 @@
-[
-  "comments": [
-    {
-      "id": 1,
-      "titulo": "Mariana",
-      "corpo": "Socorro"
-    },
-    {
-      "id": 2,
-      "titulo": "Mo",
-      "corpo": "mt bom"
-    },
-    {
-      "id": 3,
-      "titulo": "Samila",
-      "corpo": "show"
-    }]
-]
+{ 
+  "posts": [
+    {"id": 1, "titulo": "Mariana", "corpo": "ficou top" }, 
+    {"id": 2, "titulo": "Julie", "corpo": "eu adorei!!" }, 
+    {"id": 3, "titulo": "Matheus", "corpo": "melhor hq!" } 
+   ] 
+}
